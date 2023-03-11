@@ -1,0 +1,14 @@
+ body {
+  margin: 0;
+  background-color: #1F2335;
+}
+
+.App{
+  position: relative; 
+}
+
+.grid{
+  bottom: 0;
+  width: 100%;
+  height: 300px;
+}
